@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1694515484 source:c:\users\crizma mega store\onedrive\desktop\school__\school\main.c
+	"school.h"
+
+1694519773 c:\users\crizma mega store\onedrive\desktop\school__\school\school.h
+	"student_struct.h"
+
+1694511838 c:\users\crizma mega store\onedrive\desktop\school__\school\student_struct.h
+	"string.h"
+
+1694499159 c:\users\crizma mega store\onedrive\desktop\school__\school\string.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1694515820 source:c:\users\crizma mega store\onedrive\desktop\school__\school\school.c
+	"school.h"
+
+1694499159 source:c:\users\crizma mega store\onedrive\desktop\school__\school\string.c
+	"string.h"
+
+1694516976 source:c:\users\crizma mega store\onedrive\desktop\school__\school\student_struct.c
+	"student_struct.h"
+
+1694515484 source:c:\users\crizma mega store\onedrive\desktop\دبلومة م عبدالباسط\tasks\projects\school__\school\main.c
+	"school.h"
+
+1694577636 c:\users\crizma mega store\onedrive\desktop\دبلومة م عبدالباسط\tasks\projects\school__\school\school.h
+	"student_struct.h"
+
+1694577621 c:\users\crizma mega store\onedrive\desktop\دبلومة م عبدالباسط\tasks\projects\school__\school\student_struct.h
+	"string.h"
+
+1694499159 c:\users\crizma mega store\onedrive\desktop\دبلومة م عبدالباسط\tasks\projects\school__\school\string.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1694515820 source:c:\users\crizma mega store\onedrive\desktop\دبلومة م عبدالباسط\tasks\projects\school__\school\school.c
+	"school.h"
+
+1694499159 source:c:\users\crizma mega store\onedrive\desktop\دبلومة م عبدالباسط\tasks\projects\school__\school\string.c
+	"string.h"
+
+1694577483 source:c:\users\crizma mega store\onedrive\desktop\دبلومة م عبدالباسط\tasks\projects\school__\school\student_struct.c
+	"student_struct.h"
+
